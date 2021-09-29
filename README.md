@@ -1,2 +1,2 @@
-# SMJrFSDMVCSkeletonCode
-Stock Market MVC Implementation Skeleton Code
+# StockMarketJrFSDPA
+Stock Market Assignment for Junior FSD Pre Assessment

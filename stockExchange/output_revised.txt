@@ -1,0 +1,13 @@
+
+testConnectivity=true
+hibernateProperties=true
+testViewAllCompanyDetails=false
+testSaveCommentsImplTest=false
+testCommentServiceImplTest=true
+testViewAllCommentsImplTest2=true
+testViewAllCompanyDetails1=false
+testViewAllStockDetails=false
+testStockMarketServiceImpl=true
+testMaxStockPrice=false
+testViewAllStockDetails1=false
+testSaveStockMarketImplTest=false
